@@ -13,8 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthiasEbner2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MatthiasEbner2002/MatthiasEbner2002/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MatthiasEbner2002/MatthiasEbner2002/blob/output/github-contribution-grid-snake.svg">
