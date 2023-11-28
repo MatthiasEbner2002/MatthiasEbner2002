@@ -20,8 +20,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MatthiasEbner2002/MatthiasEbner2002/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/MatthiasEbner2002/MatthiasEbner2002/blob/output/github-contribution-grid-snake.svg">
 </picture>
-
+<!--
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+-->
 ###
 
 <div align="left">
